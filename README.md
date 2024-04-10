@@ -162,7 +162,7 @@ Hemos recopilado una lista de recursos e información valiosa que puede ayudarte
 
 ## Autor del reto
 
-Miguel Ramos Alarcón, Full Stack Developer.
+Elvis Johan Serna Vargas, Full Stack Developer.
 
 
 
